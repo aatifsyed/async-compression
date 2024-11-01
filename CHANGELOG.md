@@ -6,6 +6,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0), 
 
 ## Unreleased
 
+## [0.4.18](https://github.com/aatifsyed/async-compression/compare/v0.4.17...v0.4.18) - 2024-11-01
+
+### Fixed
+
+- Encoder state machine ([#308](https://github.com/aatifsyed/async-compression/pull/308))
+
+### Other
+
+- loop -> while in Encoder
+- #[should_panic]
+- doc
+- more tracing
+- add tracing
+- [#246](https://github.com/aatifsyed/async-compression/pull/246)
+
 ## [0.4.17](https://github.com/Nullus157/async-compression/compare/v0.4.16...v0.4.17) - 2024-10-20
 
 ### Fixed
